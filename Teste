@@ -1,0 +1,6 @@
+class Teste
+{
+	
+public:
+	void testar();
+};
